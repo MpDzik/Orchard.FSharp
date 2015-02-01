@@ -1,0 +1,10 @@
+Name: FSharp
+AntiForgery: enabled
+Author: Marek Dzikiewicz / Proligence
+Version: 1.8.1
+OrchardVersion: 1.8
+Description: Utillities for building modules for Orchard CMS in F# programming language.
+Features:
+    Orchard.FSharp:
+        Description: Utillities for building modules for Orchard CMS in F# programming language.
+        Category: Proligence
